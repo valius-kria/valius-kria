@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @valius-kria on github,  Valentinas Kriaučiukas in life.
-- 👀 Current work interests, somehow relevant with github, focuses on elisp, LateX and related things.
+- 👀 Current work interests, somehow relevant with github, focuses on elisp, LaTeX and related things.
 - 📫 How to reach me: [email me](mailto:valius.kria@gmail.com)
 
 <!---
